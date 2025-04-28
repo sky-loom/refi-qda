@@ -16,7 +16,7 @@ The library supports:
 ## Installation
 
 ```bash
-npm install refi-qda-ts
+npm install @skyloom/refi-qda
 ```
 
 Dependencies:
@@ -31,7 +31,7 @@ npm install @types/uuid @types/xml2js @types/jszip --save-dev
 ### Importing a QDPX File
 
 ```typescript
-import { importQDPX } from "refi-qda-ts";
+import { importQDPX } from "@skyloom/refi-qda";
 
 async function example() {
   const importResult = await importQDPX("project.qdpx", {
@@ -50,7 +50,7 @@ async function example() {
 ### Creating a New Project
 
 ```typescript
-import { Project, exportQDPX, generateGUID } from "refi-qda-ts";
+import { Project, exportQDPX, generateGUID } from "@skyloom/refi-qda";
 
 async function example() {
   // Create a simple project
