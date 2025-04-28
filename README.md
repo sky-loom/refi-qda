@@ -178,7 +178,7 @@ The library provides specific error classes for different error scenarios:
 Example:
 
 ```typescript
-import { importQDPX, InvalidQDPXFileError, QDPXFileNotFoundError } from "refi-qda-ts";
+import { importQDPX, InvalidQDPXFileError, QDPXFileNotFoundError } from "@skyloom/refi-qda";
 
 try {
   const result = await importQDPX("project.qdpx");
