@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project xmlns="urn:QDA-XML:project:1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" origin="ATLAS.ti 8.4.0 573 , macOS Version 10.14.3 (Build 18D109)" creatingUserGUID="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T17:46:39Z" creationDateTime="2018-03-27T17:46:39Z" basePath="/Users/sebpe/Library/Mobile Documents/com~apple~CloudDocs/QDA-XML/Exports from vendors/ATLAS.ti standard project 04-03-2019 Media" modifyingUserGUID="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" name="ATLAS.ti standard project" xsi:schemaLocation="urn:QDA-XML:project:1.0 http://schema.qdasoftware.org/versions/Project/v1.0/Project.xsd">
+    <Users>
+        <User guid="C32A2BD5-537F-4838-8B17-DF9EFBAFDF4B" name="ATLAS.ti"/>
+        <User guid="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" name="Friedrich Markgraf"/>
+        <User guid="A5DE7584-8296-418B-A322-136F77ADF87B" name="Sebastian Petrausch"/>
+    </Users>
+    <CodeBook>
+        <Codes>
+            <Code color="#F00082" isCodable="true" name="happiness" guid="85D17F60-7BB0-481E-B742-B4861DD669DF"/>
+            <Code color="#F00082" isCodable="true" name="Feelings" guid="0F8A1907-7E42-4739-8610-A676B4D1B69F">
+                <Description>thoughts about breakfast foods</Description>
+            </Code>
+            <Code color="#F00082" isCodable="true" name="disgust" guid="D2C1E38E-5220-42FA-A442-908471CC7964"/>
+            <Code color="#F00082" isCodable="true" name="waste of time" guid="7988DAC2-ADBD-4258-A81E-71489189F5B5"/>
+            <Code color="#966450" isCodable="true" name="Coke::full-fat Coke" guid="0983E32E-6866-431A-BD94-DAC9BB963825">
+                <Description>aka regular</Description>
+            </Code>
+            <Code color="#966450" isCodable="true" name="Coke::diet Coke" guid="D299EFAE-5779-46DC-9827-A3D1A5D544BC">
+                <Description>non sucré</Description>
+            </Code>
+            <Code color="#966450" isCodable="true" name="Coke" guid="7496BA52-9C8D-4396-8FAB-CC438614E453">
+                <Description>the breakfast of champions</Description>
+            </Code>
+            <Code guid="C3C7D437-6932-4B14-A55D-30B7F811BBF3" name="milk" isCodable="true"/>
+            <Code color="#F00082" isCodable="true" name="serene" guid="3DD1A2A6-3AEF-4A4C-9138-718E9CE2386D"/>
+            <Code color="#463CC8" isCodable="true" name="bacon and eggs" guid="F9C6EAC0-8A66-4757-9D8A-9A6C8FEA3C44">
+                <Description>a plate of breakfast made by the hotel</Description>
+            </Code>
+            <Code color="#F00082" isCodable="true" name="sleepy" guid="BA1EB6DF-89AC-4D11-B69F-929012A16FD4"/>
+            <Code color="#46AA00" isCodable="true" name="Breakfast food" guid="E3AABCC1-84E7-48D4-B059-50FF914ED1E2">
+                <Description>the foods people might eat for breakfast</Description>
+            </Code>
+            <Code color="#DC0000" isCodable="true" name="cornflakes" guid="AE6D04CE-D987-4FC8-AF97-D72CA6FFD08F">
+                <Description>breakfast cereal made by Kellogg’s</Description>
+            </Code>
+            <Code color="#F00082" isCodable="true" name="&quot;rushed&quot;" guid="9F43FE32-C2CB-4BA8-B766-A0734C826E49"/>
+        </Codes>
+    </CodeBook>
+    <Sources>
+        <TextSource plainTextPath="internal://01106019-2518-43DD-BBD1-8F0252BACB30.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" richTextPath="internal://B5566006-EB5F-43F0-9BC2-DBCD4D2F73F7.docx" guid="69A4332D-5B31-4915-B520-5275CFC21B40" name="1960s Coca Cola commercial - Audio.docx"/>
+        <TextSource plainTextPath="internal://C8A57C71-D156-4A94-8407-2BD2FA57E2A4.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" richTextPath="internal://1DDD235C-9E58-4451-8C49-17013D5C3655.docx" guid="51AD8E46-427A-4E6B-AFE7-BD96C1EFF0AD" name="1960s Coca Cola commercial - Visual.docx"/>
+        <TextSource plainTextPath="internal://230B768E-5A3D-42B7-BE92-2A3721177944.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" richTextPath="internal://9DBE0A35-06E4-4D01-B4F5-93C54FA82957.docx" guid="57C6099B-934F-4C86-90F2-CC6C2F2A3CC3" name="1994 Diet Coke-Diet Coke Break.docx">
+            <PlainTextSelection startPosition="139" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T19:29:27Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:29:27Z" endPosition="195" guid="4191294A-E287-4510-95B0-69BCE4638E56" name="Oh, that was great. See you tomorrow? Eleven thirty. Mm.">
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:29:27Z" guid="445A6AEC-1400-4502-919D-0867832FF211">
+                    <CodeRef targetGUID="D299EFAE-5779-46DC-9827-A3D1A5D544BC"/>
+                </Coding>
+            </PlainTextSelection>
+        </TextSource>
+        <TextSource plainTextPath="internal://88293C71-CB70-4AB7-8413-C24110A19C2E.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" richTextPath="internal://9CA38EEA-26FC-4D67-BB7F-45D097991D86.docx" guid="17FB9CB8-7858-4291-A162-65424B9942EC" name="Mabêl 2ième.txt">
+            <PlainTextSelection startPosition="250" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:49:32Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:49:32Z" endPosition="412" guid="B49D7982-BB8E-4335-80AF-DC869CCC3F45" name="For some reason babies aren't supposed to have cow's milk that is low fat. However, I am really bad…">
+                <Description>Mabel is not the only person I know who has Coke for breakfast!</Description>
+            </PlainTextSelection>
+        </TextSource>
+        <TextSource plainTextPath="internal://B2F54555-0D2D-43B2-B40C-2A1C048F5F1C.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" richTextPath="internal://3CD739AF-80D7-402D-A836-BE292887E147.docx" guid="EC0A7242-65E1-457C-B7D1-310DAE603FAB" name="Mabel.txt">
+            <PlainTextSelection startPosition="0" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T19:04:19Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:04:19Z" endPosition="410" guid="2F24EA88-C6A7-482B-8F89-893EF66D7A21" name="I'm a single mum with an 8 month old and a toddler and breakfast is mayhem. The baby has porridge, I…">
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:04:42Z" guid="2284BF5B-8F78-45B6-A6EF-A128D991408B">
+                    <CodeRef targetGUID="F9C6EAC0-8A66-4757-9D8A-9A6C8FEA3C44"/>
+                </Coding>
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:04:19Z" guid="89B9918E-4209-4FE0-BEA0-0C7FF56D67A4">
+                    <CodeRef targetGUID="AE6D04CE-D987-4FC8-AF97-D72CA6FFD08F"/>
+                </Coding>
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:04:19Z" guid="4B8DD4A4-0C50-42D0-91F4-9E95AFBFC7F0">
+                    <CodeRef targetGUID="85D17F60-7BB0-481E-B742-B4861DD669DF"/>
+                </Coding>
+            </PlainTextSelection>
+        </TextSource>
+        <TextSource plainTextPath="internal://C1C745F7-8E4D-48B2-9710-655AFE7E54FA.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" richTextPath="internal://D32251E3-04A0-4E0C-87A1-46AC68021F21.docx" guid="AE5298BE-7C94-4B66-8A9C-51FBE232D2F5" name="Simon.docx">
+            <PlainTextSelection startPosition="688" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:42:00Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:39:50Z" endPosition="907" guid="63E009F1-5C33-4568-B65D-53A7E28BDBC1" name="damage done by fatty foods">
+                <Description>why does Simon feel the need to do this?</Description>
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:39:50Z" guid="9AD860A5-3D53-4BDE-B5EE-A8FC613C1652">
+                    <CodeRef targetGUID="F9C6EAC0-8A66-4757-9D8A-9A6C8FEA3C44"/>
+                </Coding>
+            </PlainTextSelection>
+            <PlainTextSelection startPosition="215" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T19:02:20Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:02:20Z" endPosition="275" guid="789A62D6-A2AD-4B59-AB90-EF1D4AB1868F" name="I did try the gluten free bread, but it was always so soggy,">
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:02:20Z" guid="61C727FB-E8CD-442D-B34E-D20F6B843407">
+                    <CodeRef targetGUID="0F8A1907-7E42-4739-8610-A676B4D1B69F"/>
+                </Coding>
+            </PlainTextSelection>
+            <PlainTextSelection startPosition="513" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T19:00:54Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:00:54Z" endPosition="907" guid="F4E8FF7E-1E00-4112-ADD1-37F087BB8598" name="But to be honest, I used to have a much bigger breakfast, and these days I find myself snacking abou…">
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:00:54Z" guid="B1CE75CA-1953-43E9-9CE4-26A9AAB4DC02">
+                    <CodeRef targetGUID="85D17F60-7BB0-481E-B742-B4861DD669DF"/>
+                </Coding>
+            </PlainTextSelection>
+        </TextSource>
+        <PictureSource modifiedDateTime="2018-03-27T18:01:07Z" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" path="internal://87EAD86F-3112-4537-8A01-01427CAE1C6D.jpg" guid="02255470-09E6-400B-9E20-97D71FBEC65D" name="cornflakes-n-milk.jpg">
+            <PictureSelection firstX="267" firstY="1" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:08:11Z" modifiedDateTime="2018-03-27T19:08:11Z" secondY="720" secondX="992" guid="7532038C-670E-471B-AA89-A1098E9A4E33" name="Quotation 6:1">
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:08:11Z" guid="8205358C-5489-4F75-A86D-C7A3DF1571CE">
+                    <CodeRef targetGUID="AE6D04CE-D987-4FC8-AF97-D72CA6FFD08F"/>
+                </Coding>
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:08:11Z" guid="F3906F2B-2FF0-4338-B45B-BE66661F9AE6">
+                    <CodeRef targetGUID="C3C7D437-6932-4B14-A55D-30B7F811BBF3"/>
+                </Coding>
+            </PictureSelection>
+        </PictureSource>
+        <PDFSource modifiedDateTime="2018-03-27T18:01:07Z" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" path="internal://484934BD-97FF-4F8C-9690-B9E77A9092B5.pdf" guid="03F134F1-AB05-46E6-8702-1D6930D7F7F0" name="Kellogg's Passion for Nutrition.pdf">
+            <Representation plainTextPath="internal://B09E8D25-66A6-4D7E-A884-3E1A11A40E7C.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" guid="B09E8D25-66A6-4D7E-A884-3E1A11A40E7C" name="Representation_for_Kellogg's Passion for Nutrition.pdf"/>
+        </PDFSource>
+        <PDFSource modifiedDateTime="2018-03-27T18:01:07Z" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" path="internal://3E029F7C-B699-47C2-AE9F-95F481693CAF.pdf" guid="2065D8AB-D724-40C9-B4E9-6EB8DAB73541" name="Pay de Limón con Base de Granola | Kellogg's ®.pdf">
+            <PDFSelection firstX="18" firstY="45" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:11:47Z" modifiedDateTime="2018-03-27T19:11:47Z" secondY="234" secondX="577" guid="95916796-D0A0-4B49-80B0-5A5C8B94AE13" name="favoritos. Dificultad: Media Tiempo: 2 horas 30 minutos Porciones: 8 Ingredientes Para la bas…" page="0">
+                <Representation guid="7CFEDFC8-A48D-4F27-B3E0-FF2E7D7B1CD7">
+                    <PlainTextContent>favoritos.Dificultad: MediaTiempo: 2 horas 30 minutos </PlainTextContent>
+                </Representation>
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:11:47Z" guid="DA81AC20-2C10-45DE-9D95-1F87DF90D77D">
+                    <CodeRef targetGUID="AE6D04CE-D987-4FC8-AF97-D72CA6FFD08F"/>
+                </Coding>
+            </PDFSelection>
+            <PDFSelection firstX="18" firstY="41" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:11:47Z" modifiedDateTime="2018-03-27T19:11:47Z" secondY="823" secondX="577" name="favoritos. Dificultad: Media Tiempo: 2 horas 30 minutos Porciones: 8 Ingredientes Para la bas…" page="1" guid="7B8C9A7D-1AD6-4A88-8556-50B9A35FDA19">
+                <Representation guid="03EFB0D3-6805-4253-BD99-F226E7E84EA4">
+                    <PlainTextContent> Porciones: 8 IngredientesPara la base:340 g de Granola Kellogg’s® Granos Ancestrales; Amaranto, linaza y arándano.90 g de mantequilla</PlainTextContent>
+                </Representation>
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:11:47Z" guid="CF4B56B4-A1C7-4B8A-8871-AF72137B5B89">
+                    <CodeRef targetGUID="AE6D04CE-D987-4FC8-AF97-D72CA6FFD08F"/>
+                </Coding>
+            </PDFSelection>
+            <PDFSelection firstX="19" firstY="515" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:14:30Z" modifiedDateTime="2018-03-27T19:14:30Z" secondY="676" secondX="576" guid="7C046D16-1B6D-4814-A260-3A7BD5FC6A51" name="Quotation 12:3" page="0">
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:14:30Z" guid="D918B908-05D4-4DF6-B300-371298F05768">
+                    <CodeRef targetGUID="3DD1A2A6-3AEF-4A4C-9138-718E9CE2386D"/>
+                </Coding>
+            </PDFSelection>
+            <PDFSelection firstX="335" firstY="367" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:12:39Z" modifiedDateTime="2018-03-27T19:12:39Z" secondY="420" secondX="485" guid="27A5F0C2-E225-4D6A-8297-F4FEC794D890" name="granola" page="0">
+                <Representation guid="45930BEF-DF23-4E1E-81B3-E6A5F034FE8D">
+                    <PlainTextContent>granola</PlainTextContent>
+                </Representation>
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:12:39Z" guid="A4681168-7A17-45F6-BEF4-E717A90DB205">
+                    <CodeRef targetGUID="7988DAC2-ADBD-4258-A81E-71489189F5B5"/>
+                </Coding>
+            </PDFSelection>
+            <Representation plainTextPath="internal://142EB46D-612E-4593-A385-D0E5D04D1288.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" guid="142EB46D-612E-4593-A385-D0E5D04D1288" name="Representation_for_Pay de Limón con Base de Granola | Kellogg's ®.pdf">
+                <PlainTextSelection startPosition="297" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T19:11:47Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:11:47Z" endPosition="498" guid="95916796-D0A0-4B49-80B0-5A5C8B94AE13" name="favoritos. Dificultad: Media Tiempo: 2 horas 30 minutos Porciones: 8 Ingredientes Para la bas…">
+                    <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:11:47Z" guid="5C931701-6CD4-4A2B-A553-F1DDE2EAC46D">
+                        <CodeRef targetGUID="AE6D04CE-D987-4FC8-AF97-D72CA6FFD08F"/>
+                    </Coding>
+                </PlainTextSelection>
+                <PlainTextSelection startPosition="62" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T19:12:39Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:12:39Z" endPosition="69" guid="27A5F0C2-E225-4D6A-8297-F4FEC794D890" name="granola">
+                    <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:12:39Z" guid="4B1F2D56-CCE9-46F9-8248-E110F3352C5A">
+                        <CodeRef targetGUID="7988DAC2-ADBD-4258-A81E-71489189F5B5"/>
+                    </Coding>
+                </PlainTextSelection>
+            </Representation>
+        </PDFSource>
+        <AudioSource modifiedDateTime="2018-03-27T18:01:07Z" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" path="relative:///DF370983-F009-4D47-8615-711633FA9DE6.m4a" guid="DA744775-589A-46D3-8B26-A07ADCE1E1CA" name="Jeanine's Breakfast.m4a"/>
+        <VideoSource modifiedDateTime="2018-03-27T18:01:07Z" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" path="relative:///5293A7DD-8139-4811-88E4-3357E3AA64E1.mp4" guid="9D260347-8F7D-4161-89F7-DCC93CC34170" name="1960s Coca Cola commercial.mp4">
+            <Transcript plainTextPath="internal://01106019-2518-43DD-BBD1-8F0252BACB30.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" richTextPath="internal://B5566006-EB5F-43F0-9BC2-DBCD4D2F73F7.docx" guid="0EBF03C4-768D-4937-B37E-58341FDA4CDB" name="1960s Coca Cola commercial - Audio.docx">
+                <SyncPoint guid="BC57B3AA-64E1-4974-AC92-646A4F822070" position="0" timeStamp="0"/>
+            </Transcript>
+            <Transcript plainTextPath="internal://C8A57C71-D156-4A94-8407-2BD2FA57E2A4.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" richTextPath="internal://1DDD235C-9E58-4451-8C49-17013D5C3655.docx" guid="71013825-D721-4D83-9E28-415218223753" name="1960s Coca Cola commercial - Visual.docx">
+                <SyncPoint guid="3101C58C-BD31-4AC5-A76B-BE5B6876C387" position="0" timeStamp="0"/>
+            </Transcript>
+        </VideoSource>
+        <VideoSource modifiedDateTime="2018-03-27T18:01:07Z" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" path="relative:///DAD05D08-38E7-4F58-BF6D-9AAE714F2F50.mp4" guid="ED105492-356D-4119-A1E2-716CF018AFED" name="1994 Diet Coke-Diet Coke Break.mp4">
+            <Transcript plainTextPath="internal://230B768E-5A3D-42B7-BE92-2A3721177944.txt" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" modifiedDateTime="2018-03-27T18:01:07Z" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T18:01:07Z" richTextPath="internal://9DBE0A35-06E4-4D01-B4F5-93C54FA82957.docx" guid="81F25050-2768-4160-A403-85E07B4B1093" name="1994 Diet Coke-Diet Coke Break.docx">
+                <SyncPoint guid="1EEACA36-1193-4900-80F1-4C03857609EF" position="0" timeStamp="0"/>
+                <SyncPoint guid="5BDDBA5C-54F3-4AEE-B9ED-3B80486517AD" position="20" timeStamp="2260"/>
+                <SyncPoint guid="7133B896-1D41-4610-85AF-8482011953D3" position="40" timeStamp="3100"/>
+                <SyncPoint guid="7D0089C0-B8C2-40A8-8B88-826A9480C310" position="73" timeStamp="4420"/>
+                <SyncPoint guid="0FDCA805-642D-46BC-809C-7618A2A56C95" position="90" timeStamp="6320"/>
+                <SyncPoint guid="7A98E85B-4BD5-4D50-8260-4E4F87783B27" position="107" timeStamp="6869"/>
+                <SyncPoint guid="7A1FF36E-4589-40A4-B549-35C557432534" position="124" timeStamp="8059"/>
+                <SyncPoint guid="BCD96BAD-5351-44FA-85B2-FE30B362423A" position="139" timeStamp="37268"/>
+                <SyncPoint guid="74A9D769-B2D8-4253-A211-B569C1D00EF1" position="159" timeStamp="38288"/>
+                <SyncPoint guid="65D5F622-C728-451B-B65F-6181BED5B5A8" position="177" timeStamp="39168"/>
+                <SyncPoint guid="EADBD425-8808-479C-98BC-3811DAF368F8" position="192" timeStamp="40348"/>
+            </Transcript>
+            <VideoSelection end="45358" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" begin="16176" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:43:47Z" modifiedDateTime="2018-03-27T20:04:34Z" guid="238965CB-E557-405D-B4F0-6F824B2F4570" name="00:16.17 – 00:45.35"/>
+            <VideoSelection end="17706" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" begin="14706" creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:34:32Z" modifiedDateTime="2018-03-27T19:34:55Z" guid="0EF270BA-47AD-4107-B78F-7697362BCA44" name="00:14.70 – 00:17.70">
+                <Coding creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:36:01Z" guid="04EBEC7D-EAB4-43FC-8167-ADB14F921143">
+                    <CodeRef targetGUID="9F43FE32-C2CB-4BA8-B766-A0734C826E49"/>
+                </Coding>
+            </VideoSelection>
+        </VideoSource>
+    </Sources>
+    <Notes>
+        <Note creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:38:46Z" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" name="Research Plan" modifiedDateTime="2018-03-27T19:41:09Z" guid="CE15250D-46AD-42C2-B90F-A509B8D64EC8">
+            <Description>day to day log about this amazing project</Description>
+            <PlainTextContent>This is a great project by a dynamic team of researcher-developers. </PlainTextContent>
+        </Note>
+        <Note creatingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" creationDateTime="2018-03-27T19:41:28Z" modifyingUser="AD68FBE7-E1EE-4A82-A279-23CC698C89EB" name="My favorite Coke ad" modifiedDateTime="2018-03-27T19:43:23Z" guid="E41BE463-FDF3-4ED0-B668-119C53D8D687">
+            <PlainTextContent>This version is much better than the new Director’s cut </PlainTextContent>
+        </Note>
+    </Notes>
+    <Links>
+        <Link direction="OneWay" color="#000000" originGUID="E41BE463-FDF3-4ED0-B668-119C53D8D687" name="Memo-Quotation Relation" targetGUID="238965CB-E557-405D-B4F0-6F824B2F4570" guid="7B56978E-9D9F-4D47-B4EC-436E2F6B8BE5"/>
+    </Links>
+    <Sets>
+        <Set guid="C29B5DB8-2ED6-406B-BFD2-68E8E273C1E9" name="Mabel">
+            <MemberSource targetGUID="17FB9CB8-7858-4291-A162-65424B9942EC"/>
+            <MemberSource targetGUID="EC0A7242-65E1-457C-B7D1-310DAE603FAB"/>
+        </Set>
+        <Set guid="02B010C9-3990-4065-B09C-2D228030B01C" name="gender: male">
+            <MemberSource targetGUID="AE5298BE-7C94-4B66-8A9C-51FBE232D2F5"/>
+        </Set>
+        <Set guid="0AC83F4E-D0AF-4A77-A842-4325EC62FA8C" name="Simon">
+            <MemberSource targetGUID="AE5298BE-7C94-4B66-8A9C-51FBE232D2F5"/>
+        </Set>
+        <Set guid="CDD38088-85AA-45BB-B2BC-6615A7FDAB08" name="Text files">
+            <MemberSource targetGUID="17FB9CB8-7858-4291-A162-65424B9942EC"/>
+            <MemberSource targetGUID="AE5298BE-7C94-4B66-8A9C-51FBE232D2F5"/>
+            <MemberSource targetGUID="51AD8E46-427A-4E6B-AFE7-BD96C1EFF0AD"/>
+            <MemberSource targetGUID="EC0A7242-65E1-457C-B7D1-310DAE603FAB"/>
+            <MemberSource targetGUID="69A4332D-5B31-4915-B520-5275CFC21B40"/>
+            <MemberSource targetGUID="57C6099B-934F-4C86-90F2-CC6C2F2A3CC3"/>
+        </Set>
+        <Set guid="70F66D5A-D617-4C2C-88B8-3CCCB0183580" name="gender: female">
+            <MemberSource targetGUID="17FB9CB8-7858-4291-A162-65424B9942EC"/>
+            <MemberSource targetGUID="EC0A7242-65E1-457C-B7D1-310DAE603FAB"/>
+        </Set>
+        <Set guid="115F4D26-96EA-486B-BC94-B929A5F875BD" name="Coke">
+            <MemberSource targetGUID="ED105492-356D-4119-A1E2-716CF018AFED"/>
+            <MemberSource targetGUID="9D260347-8F7D-4161-89F7-DCC93CC34170"/>
+        </Set>
+        <Set guid="833A9A91-A304-48C0-8445-D301C84D0434" name="age: 67">
+            <MemberSource targetGUID="AE5298BE-7C94-4B66-8A9C-51FBE232D2F5"/>
+        </Set>
+        <Set guid="A8D77DB6-32D5-4AC3-82E2-900FC49A9329" name="Images">
+            <MemberSource targetGUID="02255470-09E6-400B-9E20-97D71FBEC65D"/>
+        </Set>
+        <Set guid="CDCD293A-EB42-47EC-A42E-828EEEFED047" name="PDFs">
+            <MemberSource targetGUID="03F134F1-AB05-46E6-8702-1D6930D7F7F0"/>
+            <MemberSource targetGUID="2065D8AB-D724-40C9-B4E9-6EB8DAB73541"/>
+        </Set>
+        <Set guid="B7271B64-7D31-4D8B-8A21-89380C739CA6" name="age: 25">
+            <MemberSource targetGUID="17FB9CB8-7858-4291-A162-65424B9942EC"/>
+            <MemberSource targetGUID="EC0A7242-65E1-457C-B7D1-310DAE603FAB"/>
+        </Set>
+        <Set guid="2909D0DA-95E1-4184-BAF5-48FD7E4142E7" name="Video and Audio">
+            <MemberSource targetGUID="ED105492-356D-4119-A1E2-716CF018AFED"/>
+            <MemberSource targetGUID="DA744775-589A-46D3-8B26-A07ADCE1E1CA"/>
+            <MemberSource targetGUID="9D260347-8F7D-4161-89F7-DCC93CC34170"/>
+        </Set>
+        <Set guid="2324B638-D629-4970-B2E8-8B5BFD0A8D6B" name="Feelings">
+            <MemberCode targetGUID="3DD1A2A6-3AEF-4A4C-9138-718E9CE2386D"/>
+            <MemberCode targetGUID="9F43FE32-C2CB-4BA8-B766-A0734C826E49"/>
+            <MemberCode targetGUID="85D17F60-7BB0-481E-B742-B4861DD669DF"/>
+            <MemberCode targetGUID="BA1EB6DF-89AC-4D11-B69F-929012A16FD4"/>
+            <MemberCode targetGUID="D2C1E38E-5220-42FA-A442-908471CC7964"/>
+            <MemberCode targetGUID="7988DAC2-ADBD-4258-A81E-71489189F5B5"/>
+        </Set>
+        <Set guid="C8D93AD3-1913-45D4-B2F5-F6681D19CCAD" name="negative feelings">
+            <MemberCode targetGUID="9F43FE32-C2CB-4BA8-B766-A0734C826E49"/>
+            <MemberCode targetGUID="BA1EB6DF-89AC-4D11-B69F-929012A16FD4"/>
+            <MemberCode targetGUID="D2C1E38E-5220-42FA-A442-908471CC7964"/>
+            <MemberCode targetGUID="7988DAC2-ADBD-4258-A81E-71489189F5B5"/>
+        </Set>
+        <Set guid="45280FA0-43D0-4890-8B2B-456B84EB4A25" name="Breakfast food">
+            <MemberCode targetGUID="C3C7D437-6932-4B14-A55D-30B7F811BBF3"/>
+            <MemberCode targetGUID="D299EFAE-5779-46DC-9827-A3D1A5D544BC"/>
+            <MemberCode targetGUID="AE6D04CE-D987-4FC8-AF97-D72CA6FFD08F"/>
+            <MemberCode targetGUID="F9C6EAC0-8A66-4757-9D8A-9A6C8FEA3C44"/>
+            <MemberCode targetGUID="0983E32E-6866-431A-BD94-DAC9BB963825"/>
+            <MemberCode targetGUID="7496BA52-9C8D-4396-8FAB-CC438614E453"/>
+        </Set>
+        <Set guid="322EDFE7-C248-49CE-A094-477E02CB7177" name="&lt;3"/>
+        <Set guid="05AD6FF8-9E31-4B7F-82C9-187C382C5214" name="positive feelings">
+            <MemberCode targetGUID="3DD1A2A6-3AEF-4A4C-9138-718E9CE2386D"/>
+            <MemberCode targetGUID="BA1EB6DF-89AC-4D11-B69F-929012A16FD4"/>
+            <MemberCode targetGUID="85D17F60-7BB0-481E-B742-B4861DD669DF"/>
+        </Set>
+    </Sets>
+    <Graphs>
+        <Graph guid="2BD17780-DA8D-4F9E-835A-5FA8CF02EF11" name="Netzwerk">
+            <Vertex firstX="103" firstY="26" representedGUID="ED105492-356D-4119-A1E2-716CF018AFED" secondY="72" secondX="258" guid="B169A012-304E-49AC-A753-2543F08987AF" name="1994 Diet Coke-Diet Coke Break.mp4" shape="Rectangle"/>
+            <Vertex firstX="50" firstY="270" representedGUID="E41BE463-FDF3-4ED0-B668-119C53D8D687" secondY="316" secondX="205" guid="41A2F94D-1832-4D50-BB62-B7E49ECDC509" name="My favorite Coke ad" shape="Rectangle"/>
+            <Vertex firstX="345" firstY="182" representedGUID="238965CB-E557-405D-B4F0-6F824B2F4570" secondY="543" secondX="791" guid="D8970236-3A5B-429F-9314-066343D012C3" name="00:16.17 – 00:45.35" shape="Rectangle"/>
+            <Edge sourceVertex="B169A012-304E-49AC-A753-2543F08987AF" direction="Associative" targetVertex="D8970236-3A5B-429F-9314-066343D012C3" lineStyle="dashed" guid="8ABE4D93-8982-48B9-92D3-DCA815EDF520"/>
+            <Edge color="#000000" targetVertex="D8970236-3A5B-429F-9314-066343D012C3" lineStyle="solid" representedGUID="7B56978E-9D9F-4D47-B4EC-436E2F6B8BE5" sourceVertex="41A2F94D-1832-4D50-BB62-B7E49ECDC509" direction="OneWay" guid="C5F81C62-DAD8-4A03-BD8A-7AF34FAC0FD3"/>
+        </Graph>
+    </Graphs>
+</Project>

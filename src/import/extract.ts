@@ -6,7 +6,7 @@
 
 import * as fs from "fs";
 import * as path from "path";
-import * as JSZip from "jszip";
+import JSZip from "jszip";
 import { InvalidQDPXFileError } from "../utils/errors.js";
 
 /**
@@ -37,7 +37,9 @@ export async function extractQDPXFile(qdpxFilePath: string): Promise<QDPXExtract
     const zip = await JSZip.loadAsync(qdpxData);
 
     // Extract the project.qde file
-    const qdeFile = zip.file("project.qde");
+    // case insensitive search for project.qde
+    const fileName = "project.qde";
+    const qdeFile = Object.values(zip.files).find((file) => file.name.toLowerCase() === fileName.toLowerCase());
     if (!qdeFile) {
       throw new InvalidQDPXFileError("Invalid QDPX file: project.qde not found");
     }

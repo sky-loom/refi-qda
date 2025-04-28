@@ -270,10 +270,6 @@ function validateProjectSources(project: Project): string[] {
 
   // Helper function to validate a text source
   const validateTextSource = (source: any, index: number) => {
-    if (!source.path) {
-      errors.push(`Missing path in Sources.TextSource[${index}]`);
-    }
-
     if (hasTextSourceProperties(source)) {
       if (source.PlainTextContent && source.plainTextPath) {
         errors.push(`Sources.TextSource[${index}] has both PlainTextContent and plainTextPath`);

@@ -10,6 +10,9 @@ import { XMLValidator } from "fast-xml-parser";
 import { Builder } from "xml2js";
 import { Project } from "../refi-qda-interfaces.js";
 import { ValidationError } from "../utils/errors.js";
+import { fileURLToPath } from "url";
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 /**
  * Validates a Project object against the XSD schema
@@ -17,14 +20,22 @@ import { ValidationError } from "../utils/errors.js";
  * @param project The project to validate
  * @returns Array of validation error messages (empty if valid)
  */
+
+async function loadEmbeddedFile(relativePath: string): Promise<string> {
+  const filePath = path.join(__dirname, relativePath);
+  return await fs.promises.readFile(filePath, "utf8");
+}
 export async function validateProjectAgainstSchema(project: Project): Promise<string[]> {
   try {
+    // Get the directory name of the current module
+    const __dirname = path.dirname(fileURLToPath(import.meta.url));
     // Convert project back to XML for validation
     const projectXml = convertProjectToXml(project);
 
     // Load the XSD schema
-    const schemaPath = path.resolve(__dirname, "../schemas/Project.xsd");
-    const schemaContent = await fs.promises.readFile(schemaPath, "utf-8");
+    //const schemaPath = path.resolve(__dirname, "./Project.xsd");
+
+    const schemaContent = await loadEmbeddedFile("../Project.xsd"); //await fs.promises.readFile(schemaPath, "utf-8");
 
     // Validate XML against schema
     const validationResult = XMLValidator.validate(projectXml, {
